@@ -5,5 +5,7 @@ This project focuses on implementing and experimenting with Deep Q-Networks, a p
 ## Contributors:
 
 @potatohburritoh
+
 @Briandesaw
+
 @Thatguyfergy
